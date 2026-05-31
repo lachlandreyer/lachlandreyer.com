@@ -1,13 +1,15 @@
 # <center>lachlandreyer.com</center>
-<p><center>my tuff website</center>
+## <p><center>my tuff website</center>
 </p>
 <div align="center">
   <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
 </div>
-
+<br>
+<br>
 <div align="center">
   <a href="https://pixelga.itch.io">My itch with very good games yes yes</a>
 </div>
+<br>
 
 
 
@@ -15,3 +17,9 @@
 ![tuff pic](./tuff.webp)
 <img src="denjituff.gif" width="200">
 ![tuff pic](./jjk.jpg)
+<img src="/allinhismind.png" width="200">
+<img src="/feelstheaura.png" width="200">
+<img src="/imout.png" width="200">
+<img src="/holland.jpg" width="200">
+<img src="/true...png" width="200">
+<img src="/speed.gif" width="200">
