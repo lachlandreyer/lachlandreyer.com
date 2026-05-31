@@ -1,6 +1,5 @@
 # <center>lachlandreyer.com</center>
-## <p><center>my tuff website</center>
-</p>
+## <center>my tuff website</center>
 <div align="center">
   <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
 </div>
