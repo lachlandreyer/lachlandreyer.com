@@ -8,7 +8,7 @@
   <img src="/kojima.png" alt="sopping it kojima26" />
 </div>
 <div align="center">
-  <img src="./epicgif.gif" alt="super cool gif of me and sonic"width="350" />
+  <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
 </div>
 <br>
 <br>
@@ -24,6 +24,9 @@
 <img src="/holland.jpg" width="200">
 <img src="/true...png" width="200">
 <img src="/speed.gif" width="200">
+<div align="center">
+  <img src="./yuta.png" />
+</div>
 <br>
 <video width="100%" width="400" controls>
   <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
