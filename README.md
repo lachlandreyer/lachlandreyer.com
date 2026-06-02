@@ -5,18 +5,13 @@
   <img src="/sop.png" alt="sopping it 2026" />
 </div>
 <div align="center">
-  <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
+  <img src="/kojima.png" alt="sopping it kojima26" />
+</div>
+<div align="center">
+  <img src="./epicgif.gif" alt="super cool gif of me and sonic"width="350" />
 </div>
 <br>
 <br>
-
-<br>
-<video width="100%" width="400" controls>
-  <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<br>
-<b>all AI slop is ethically farmed and generated</b>
 
 
 <link rel="icon" type="image/png" href="favicon.png">
@@ -31,9 +26,11 @@
 <img src="/speed.gif" width="200">
 <br>
 <video width="100%" width="400" controls>
-  <source src="{{ site.baseurl }}/marco.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br>
+<b>all AI slop is ethically farmed and generated</b>
 <div align="center">
   <a href="https://pixelga.itch.io">My itch with very good games yes yes</a>
 </div>
