@@ -1,8 +1,3 @@
----
-layout: default
-title: "My TUFF website 💀"
----
-
 # <center>lachlandreyer.com</center>
 ## <center>my tuff website 💀</center>
 
