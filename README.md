@@ -15,6 +15,7 @@
   <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<b>all AI slop is ethically farmed and generated</b>
 
 
 <link rel="icon" type="image/png" href="favicon.png">
