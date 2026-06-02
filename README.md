@@ -11,7 +11,10 @@
 <br>
 
 <br>
-
+<video width="100%" height="auto" controls>
+  <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <link rel="icon" type="image/png" href="favicon.png">
