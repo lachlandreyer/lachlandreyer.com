@@ -11,10 +11,11 @@
 <br>
 
 <br>
-<video width="100%" height="auto" controls>
+<video width="100%" width="400" controls>
   <source src="{{ site.baseurl }}/gojo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br>
 <b>all AI slop is ethically farmed and generated</b>
 
 
@@ -29,7 +30,7 @@
 <img src="/true...png" width="200">
 <img src="/speed.gif" width="200">
 <br>
-<video width="100%" height="auto" controls>
+<video width="100%" width="400" controls>
   <source src="{{ site.baseurl }}/marco.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
