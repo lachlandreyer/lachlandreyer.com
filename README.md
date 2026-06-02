@@ -1,8 +1,6 @@
 # <center>lachlandreyer.com</center>
-## <center>my tuff website</center>
-## <center>HIIIIIIII KAYLEY HOW ARE YOU</center>
-<img src="/anki.png" width="400">
-I DID ANKI
+## <p><center>my tuff website</center>
+</p>
 <div align="center">
   <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
 </div>
