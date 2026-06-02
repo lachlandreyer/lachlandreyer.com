@@ -1,14 +1,20 @@
+---
+layout: default
+title: "My TUFF website 💀"
+---
+
 # <center>lachlandreyer.com</center>
-## <p><center>my tuff website</center>
-</p>
+## <center>my tuff website 💀</center>
+
+<div align="center">
+  <img src="/sop.png" alt="sopping it 2026" />
+</div>
 <div align="center">
   <img src="./epicgif.gif" alt="super cool gif of me and sonic" />
 </div>
 <br>
 <br>
-<div align="center">
-  <a href="https://pixelga.itch.io">My itch with very good games yes yes</a>
-</div>
+
 <br>
 
 
@@ -23,3 +29,7 @@
 <img src="/holland.jpg" width="200">
 <img src="/true...png" width="200">
 <img src="/speed.gif" width="200">
+<br>
+<div align="center">
+  <a href="https://pixelga.itch.io">My itch with very good games yes yes</a>
+</div>
