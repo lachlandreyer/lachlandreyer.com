@@ -25,6 +25,10 @@
 <img src="/true...png" width="200">
 <img src="/speed.gif" width="200">
 <br>
+<video width="100%" height="auto" controls>
+  <source src="{{ site.baseurl }}/marco.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <div align="center">
   <a href="https://pixelga.itch.io">My itch with very good games yes yes</a>
 </div>
